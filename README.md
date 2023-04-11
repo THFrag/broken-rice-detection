@@ -4,7 +4,7 @@
 
 
 ## 引用  
-$ @inproceedings{  
+$ git @inproceedings{broken rice,  
 }
 '<@inproceedings{碎米检测数据集  
 author
