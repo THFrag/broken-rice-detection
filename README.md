@@ -11,8 +11,8 @@
 >年份 = {2023}  
 >}  
    
-@inproceedings{broken rice detection datasets,  
+>{broken rice detection datasets,  
 author      = {Liu Shuting},  
 title       = {Broken Rice Detection Dataset Based on YOLOv5},  
 year        = {2023}  
-}  
+>}  
